@@ -1,0 +1,2 @@
+listview1.setTranscriptMode(ListView.TRANSCRIPT_MODE_ALWAYS_SCROLL);
+listview1.setStackFromBottom(true);
